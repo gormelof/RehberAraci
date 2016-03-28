@@ -1,0 +1,12 @@
+C:\Users\Omer Faruk Gormel\Desktop\RehberAraci-master\RehbeAraci\obj\Debug\TelefonRehberAraci.csprojResolveAssemblyReference.cache
+C:\Users\Omer Faruk Gormel\Desktop\RehberAraci-master\RehbeAraci\obj\Debug\RehberAraci.FormReberAraci.resources
+C:\Users\Omer Faruk Gormel\Desktop\RehberAraci-master\RehbeAraci\obj\Debug\RehberAraci.Properties.Resources.resources
+C:\Users\Omer Faruk Gormel\Desktop\RehberAraci-master\RehbeAraci\obj\Debug\TelefonRehberAraci.csproj.GenerateResource.Cache
+C:\Users\Omer Faruk Gormel\Desktop\RehberAraci-master\RehbeAraci\bin\Debug\RehberAraci.exe.config
+C:\Users\Omer Faruk Gormel\Desktop\RehberAraci-master\RehbeAraci\bin\Debug\RehberAraci.exe
+C:\Users\Omer Faruk Gormel\Desktop\RehberAraci-master\RehbeAraci\bin\Debug\RehberAraci.pdb
+C:\Users\Omer Faruk Gormel\Desktop\RehberAraci-master\RehbeAraci\obj\Debug\RehberAraci.exe
+C:\Users\Omer Faruk Gormel\Desktop\RehberAraci-master\RehbeAraci\obj\Debug\RehberAraci.pdb
+C:\Users\Omer Faruk Gormel\Documents\RehberAraci-master\RehbehAraci\bin\Debug\RehberAraci.exe.config
+C:\Users\Omer Faruk Gormel\Documents\RehberAraci-master\RehbehAraci\obj\Debug\RehberAraci.exe
+C:\Users\Omer Faruk Gormel\Documents\RehberAraci-master\RehbehAraci\obj\Debug\RehberAraci.pdb
