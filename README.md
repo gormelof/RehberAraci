@@ -1,12 +1,13 @@
-RehberAraci
-==========
+# VCF Phone Book
 
-C# Ders Projesi (VCF OKUMA - PARÇALAMA -  DÜZENLEME - YAZMA) 
+> This repository has been archived
 
-Programlama II (C# dersi) için yapılmış minik bir projedir.
-Uygulamın amacı, .vcf uzantılı kişi listedini okur, gerekli bilgileri çeker ve gösterir.
-Rehbere ekleme, rehberden silme, aynı olan kayıtları teke indirme gibi özellikler eklenmiştir.
-Son olarak, yapılan değişikliklerden sonra dışa .vcf dosyası olarak atarır.
+## About the project
 
+C# Lesson Project (VCF READ - SPLIT - EDIT - WRITE)
 
-Not: Proje Visual Studio 2013'te geliştirilmiştir.
+This project was developed for the Programming II homework.
+
+The purpose of this project, read the person list that is .vcf extension then get the necessary info then show it.
+Added features like adding to the phone book, removing from the phone book, and deleting the same records on the phone book.
+Finally, After the changes export it as a .vcf file.
